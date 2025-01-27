@@ -1,8 +1,4 @@
-# React + Vite
+![image](https://github.com/user-attachments/assets/de7938bd-994b-4193-bc85-5076dcf89da5)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A simple react project built from vite template using JSX and CSS. User is able to increment or decrement value using buttons, or set the value themselves through user input. <b> Demonstrates understanding of several core react concepts including state management, event handling, and user input.
