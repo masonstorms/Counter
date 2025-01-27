@@ -18,6 +18,7 @@ function Counter() {
       <button onClick={() => setCount(count + 1)}>Increment</button>
       <button onClick={() => setCount(count - 1)}>Decrement</button>
       <span>Set Count<input type="number" value={inputValue} onChange={handleChange}></input> <button onClick={handleSetCount}>Set Count</button></span>
+      <button onClick={() => setCount(0)}>Reset to 0</button>
     </div>
   );
 }
